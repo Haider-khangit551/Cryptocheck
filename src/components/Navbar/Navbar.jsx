@@ -50,7 +50,7 @@ const Navbar = () => {
   return (
     <div className='navbar'>
       {/* <img src={logo} className='logo' alt="" /> */}
-      <Link to='/'><h1>CRYPTOPLACE</h1></Link>
+      <Link to='/'><h1>CRYPTOCHECK</h1></Link>
 
       <ul>
 
